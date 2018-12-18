@@ -1,0 +1,6 @@
+[package]
+name = "iconapi"
+version = "0.1.0"
+authors = ["dsd"]
+
+[dependencies]
