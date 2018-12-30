@@ -5,3 +5,5 @@ authors = ["dsd"]
 
 [dependencies]
 warp = "~0.1.10"
+log4rs = "~0.8.1"
+log = "~0.4.0"
